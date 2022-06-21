@@ -1,0 +1,2 @@
+Yesterday we learn all basic git command and executed on GitBash 
+Today we are leraing GitHub
