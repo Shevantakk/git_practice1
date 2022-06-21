@@ -2,3 +2,4 @@ Services provided
 Codeacademt
 canvas
 gitbash for executing commands
+ we learn Command Line and executed commands on unix as ell as on Codeacademy
